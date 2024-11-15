@@ -25,8 +25,10 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : Manoj MV
-### REGISTER NO: 212222220023
+```
+DEVELOPED BY : Manoj MV
+REGISTER NO: 212222220023
+```
 
 ### MainActivity.java:
 ```
